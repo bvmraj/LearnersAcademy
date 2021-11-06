@@ -46,6 +46,7 @@ class name as parameter to register the class.
 This Option will add new Teacher In your academy. It takes only one parameter i.e.
 Teacher Name.
 
+
 •	To add new Subject:
 This option will add new subject to teach to student of your learner academy. It takes three Parameter to add the Subject.
    Subject Name.
